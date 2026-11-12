@@ -1,4 +1,6 @@
 # Proyek_PJBL-WEB-AND-MOBILE-Group-1
 Kelompok 1 = Danu Chelsearga (09) dan Muhammad Azril Cakraningrat (22)
 
-<img src="firefly-aqua-dreams.3840x2160.mp4" width="400">
+Ini adalah proyek PJBL semester 1 kelompok 1, kelas RPL C, Aplikasi kami adalah aplikasi online shop Feed.id yang menjual pakan ternak dari seorang penjual. Kami berperan sebagai penjual kode dan penjual yang akan mengurus aplikasinya. Jadi mari lihat-lihat web dan aplikasi mobile Feed.id kami disini 😁😁
+
+<img src="chibi.gif" width="400">
